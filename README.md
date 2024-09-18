@@ -5,7 +5,7 @@
 I am a **Maintenance Engineer** transitioning into **Software Engineering**, currently in the final year of my **Computer Science degree**. I have a passion for learning new technologies and frameworks, and I’m excited to solve real-world problems with software.
 
 ### 🌟 Current Project
-I’m building a **Maintenance Application** to assist maintenance staff in completing routine checks efficiently without wasting a single sheet of paper. This project blends my experience in maintenance with my growing software engineering skills, focusing on usability and sustainability.
+As part of my ongoing learning, I’m building a **Maintenance Application** in VB.NET to assist maintenance staff in completing routine checks efficiently without wasting a single sheet of paper. This project blends my experience in maintenance with my growing software engineering skills, focusing on usability and sustainability.
 
 ### 🔧 Technologies & Tools
 
