@@ -70,7 +70,7 @@ I enjoy roles where engineers are trusted to make decisions, explore options, an
 ## 📫 Get in Touch
 
 **Location:** Swindon, UK  
-**LinkedIn:** https://www.linkedin.com/in/lukabrzo/
+**LinkedIn:** *https://www.linkedin.com/in/lukabrzo/*
 **Portfolio:** under development :)  
 
 If you’re working on something challenging, meaningful, or technically interesting — I’d love to connect.
