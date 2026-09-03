@@ -9,7 +9,7 @@ I enjoy working in **small, technically focused teams**, exploring technical opt
 
 ## 🔧 Core Engineering Strengths
 
-- **Multi‑language adaptability** — TypeScript, Python, Go, Rust (learning), C++ (foundational)
+- **Multi‑language adaptability** — TypeScript, Python, JavaScript, Java (still under development), C, C++ (foundational)
 - **Full‑stack delivery** — mobile apps, web apps, APIs, backend services, internal tools
 - **Engineering rigour** — testing, CI, code review, maintainability, documentation
 - **Systems thinking** — integration work, automation, data processing, offline‑first architectures
