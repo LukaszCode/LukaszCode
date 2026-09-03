@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Lukasz — Software Engineer
+# 👋 Hi, I'm Lukasz - Software Engineer
 
 I build **reliable, maintainable software** across web, mobile, backend, and automation environments.  
 My focus is on **engineering fundamentals**, clear design, readable code, and delivering practical solutions that make a real impact.
