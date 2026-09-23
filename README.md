@@ -28,7 +28,7 @@ A mobile application engineered for a sewing studio, built with custom UI workfl
 _TypeScript • React Native • Architecture Exploration_  
 A prototype exploring structured form workflows, data validation, and mobile-first operational tooling.
 
-### 🔗 **API & Backend Services (Python / Go)**  
+### 🔗 **API & Backend Services (Python / Java)**
 _Small, focused services demonstrating clean architecture, testing, and integration patterns._  
 *(Coming soon — pinned once published)*
 
@@ -36,7 +36,7 @@ _Small, focused services demonstrating clean architecture, testing, and integrat
 _Command-line utilities for data processing, file operations, and workflow automation._  
 *(Coming soon — pinned once published)*
 
-### 🛡️ **Systems & Reliability Projects (Rust / Go)**  
+### 🛡️ **Systems & Reliability Projects (C / C++)**  
 _Explorations into safe parsing, concurrency, and systems-level utilities._  
 *(Coming soon — pinned once published)*
 
@@ -44,8 +44,10 @@ _Explorations into safe parsing, concurrency, and systems-level utilities._
 
 ## 📚 What I'm Learning
 
-- Rust for systems-level reliability  
-- Go for lightweight services and tooling  
+- Enhancing C++ for systems-level reliability  
+- Intermediate Java for application development and mobile development
+- Python for API, backend development, and ML projects
+- JavaScript, TypeScript and React Native for hybrid applications and web development
 - Secure coding patterns  
 - Advanced testing strategies  
 - Architecture documentation & design reasoning  
